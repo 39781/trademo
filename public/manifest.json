@@ -1,0 +1,21 @@
+{
+  "short_name": "Travels",
+  "name": "Travels",
+  "icons": [
+    {
+      "src": "/avatar/TTC-B2C.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/avatar/TTC-B2C.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/chat.html",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6"
+}
