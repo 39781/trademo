@@ -13,7 +13,7 @@ var mail			= require('./utilities/mail');
 //const sendOtp 		= new SendOtp('209393AILCgzYm2m675acd86a1');
 router.get('/', function(req, res) {
 	console.log('hari');
-  res.redirect("/home.html");
+  res.redirect("/chat.html");
 });
 
 router.get('/chat', function(req, res) {
